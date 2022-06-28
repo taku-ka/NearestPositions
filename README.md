@@ -1,3 +1,3 @@
 # NearestPositions
 
-Please replase VehiclePositions.dat  in DataLayer
+Please replace VehiclePositions.dat  in DataLayer
